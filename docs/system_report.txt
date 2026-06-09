@@ -1,0 +1,16 @@
+
+SMART AGRICULTURE SYSTEM REPORT
+================================
+
+Total Records: 38
+
+Average Temperature: 31.11 °C
+Average Humidity: 59.00 %
+Average Soil Moisture: 60.76 %
+Average Water Level: 61.71 %
+
+Pump ON Count:
+7
+
+Pump OFF Count:
+31
